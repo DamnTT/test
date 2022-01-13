@@ -1,0 +1,3 @@
+[submodule "docker_ws"]
+	path = docker_ws
+	url = https://github.com/DamnTT/docker_ws.git
